@@ -1,6 +1,6 @@
 # Hey, I'm Saumya Joshi 👋
 
-### AI Engineer • Security Researcher • Patent Holder
+### AI Engineer 
 
 ---
 
@@ -17,7 +17,7 @@ AI Engineer rooted in Computer Science Engineering, I've been applying my skills
 ### What I'm working on
 
 - 🔐 Building enterprise cyber threat dashboards for Tata EV Group
-- 🧠 Designing RAG pipelines and LLM-powered mentors for cybersecurity labs
+- 🧠 Designed RAG pipelines and LLM-powered mentors for cybersecurity labs
 - 💡 Always experimenting with AI, security systems and intelligent tools
 
 > 💼 Most of my active projects are under NDA/company work — but the ideas are big!
@@ -79,4 +79,4 @@ AI Engineer rooted in Computer Science Engineering, I've been applying my skills
 
 ---
 
-⚡ *Currently exploring: LLM pipelines · Agentic AI · Enterprise security systems*
+⚡ *Currently exploring: LLM pipelines · Agentic AI · Enterprise security systems . DSA*
