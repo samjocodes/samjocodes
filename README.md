@@ -2,7 +2,7 @@
 
 🎓 CS Engineering Student @ MIT ADT University, Pune (2023–2027)  
 🔐 AI Security Engineer Intern @ BlackPearl  
-🚁 Patent-holder | 🤖 AI Builder | 🌱 2nd year making real things
+🚁 Patent-holder | 🤖 AI Builder 
 
 ---
 
