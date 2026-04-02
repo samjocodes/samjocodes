@@ -2,7 +2,7 @@
 
 🎓 CS Engineering 3rd Year Student @ MIT ADT University, Pune (2023–2027)
 🔐 AI Security Engineer Intern @ BlackPearl
-🚁 Patent-holder | 🤖 AI Builder 
+🚁 Patent-holder | 🤖 AI Builder | 8.88 CGPA
 
 ---
 
@@ -36,12 +36,6 @@
 [![docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
-### AI / ML
-[![opencv](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg width="45" height="45")](https://opencv.org)
-&nbsp;
-[![pytorch](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg width="45" height="45")](https://pytorch.org)
-
----
 
 ## 🏆 Highlights
 
@@ -49,13 +43,6 @@
 - 🏆 **Winner** — Cyber Hackathon, Healthcare Track : Made ambulance live update system
 - 📜 Patent-linked autonomous agricultural drone 
 - 🤖 AI robotic arm with **85% object detection accuracy**
-
----
-
-## 📊 GitHub Stats
-
-[![stats](https://github-readme-stats.vercel.app/api?username=samjocodes&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false)](https://github.com/samjocodes)
-[![languages](https://github-readme-stats.vercel.app/api/top-langs?username=samjocodes&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false)](https://github.com/samjocodes)
 
 ---
 
