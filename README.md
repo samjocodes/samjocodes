@@ -16,8 +16,8 @@ AI Engineer rooted in Computer Science Engineering, I've been applying my skills
 
 ### What I'm working on
 
-- 🔐 Building enterprise cyber threat dashboards for Tata EV Group
-- 🧠 Designed RAG pipelines and LLM-powered mentors for cybersecurity labs
+- 🔐 Building enterprise cyber 360 threat view dashboards for Tata-Agratas
+- 🧠 Designed RAG pipelines using weaviate , langchain and LLM-powered mentor bot for cybersecurity labs at Pwndora@blackperl
 - 💡 Always experimenting with AI, security systems and intelligent tools
 
 > 💼 Most of my active projects are under NDA/company work — but the ideas are big!
